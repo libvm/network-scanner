@@ -12,6 +12,5 @@ Run the script:
 4. Click the "Scan Host Info" button to retrieve basic information about the host.
 
 # Dependencies
-• Scapy
-
+• Scapy\
 • Requests
